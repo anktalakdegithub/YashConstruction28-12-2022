@@ -1,0 +1,5 @@
+User-Agent: *
+
+Sitemap: https://yashconstructions.co.in
+
+Disallow: /admin/
